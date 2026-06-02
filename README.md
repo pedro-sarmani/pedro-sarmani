@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @pedro-sarmani
-- 👀 I’m interested in PHP
-- 🌱 I’m currently learning Node.JS
 - 📫 How to reach me pedro.sarmani@hotmail.com
 
 <!---
